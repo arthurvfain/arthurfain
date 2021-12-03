@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/arthurfain/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/arthurfain/static/js/main.757c4d69.chunk.js",
+    "main.js.map": "/arthurfain/static/js/main.757c4d69.chunk.js.map",
+    "runtime-main.js": "/arthurfain/static/js/runtime-main.03d48348.js",
+    "runtime-main.js.map": "/arthurfain/static/js/runtime-main.03d48348.js.map",
+    "static/js/2.c9b929a9.chunk.js": "/arthurfain/static/js/2.c9b929a9.chunk.js",
+    "static/js/2.c9b929a9.chunk.js.map": "/arthurfain/static/js/2.c9b929a9.chunk.js.map",
+    "static/js/3.357ff7dc.chunk.js": "/arthurfain/static/js/3.357ff7dc.chunk.js",
+    "static/js/3.357ff7dc.chunk.js.map": "/arthurfain/static/js/3.357ff7dc.chunk.js.map",
+    "index.html": "/arthurfain/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/arthurfain/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.c9b929a9.chunk.js.LICENSE.txt": "/arthurfain/static/js/2.c9b929a9.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/arthurfain/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03d48348.js",
+    "static/js/2.c9b929a9.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.757c4d69.chunk.js"
+  ]
+}
